@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    width: 70%;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 5px 0;
+  }
+  
+  .delete-button {
+    margin-left: 10px;
+    color: #FF0000;
+    cursor: pointer;
+  }
+  
