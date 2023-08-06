@@ -17,10 +17,16 @@ This project is a basic to-do list web application that allows users to add and 
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the ```index.html``` file in your web browser.
+2. Open the file in your web browser.
+```
+index.html
+```
 3. Enter your tasks in the input field and click the "Add" button or press the "Enter" key to add them to the list.
 4. To remove a task, click the "x" button next to the task.
 
 ## Author
 
-RpbCry `https://github.com/your-RpbCry`
+RpbCry 
+```
+https://github.com/your-RpbCry
+```
