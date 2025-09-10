@@ -26,7 +26,7 @@ index.html
 
 ## Author
 
-RpbCry 
+YagmurCemGul 
 ```
-https://github.com/your-RpbCry
+https://github.com/YagmurCemGul
 ```
